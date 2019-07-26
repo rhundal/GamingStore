@@ -1,0 +1,56 @@
+
+.topContainer {
+
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 1500px;
+    height: 100px;
+    position: relative;
+    margin-bottom: -70px;
+    background-color: #8474A1;
+}
+
+.ddstyle {
+
+    color: white;
+    font-weight: bold;
+
+}
+
+a:hover {
+
+    color: silver;
+
+}
+#containerStyle1 {
+
+    padding-top: 5px;
+}
+
+#containerStyle2 {
+
+    padding-top: 25px;
+
+}
+
+.marginSpecs{
+
+    height: 420px;
+}
+
+.footerSpecs{
+    margin-top: -100px;
+}
+
+.state-icon {
+    left: -5px;
+}
+.list-group-item-primary {
+    color: rgb(255, 255, 255);
+    background-color: rgb(66, 139, 202);
+}
+
+/* DEMO ONLY - REMOVES UNWANTED MARGIN */
+.well .list-group {
+    margin-bottom: 0px;
+}
